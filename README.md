@@ -1,6 +1,9 @@
 # AllBooks
 
+<<<<<<< HEAD
 Bem vindos a API do Allbooks!
+=======
+>>>>>>> b9d7dcc (adiciona projeto pelo Mac)
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
@@ -71,4 +74,8 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 
 ```
 Authorization: Bearer <ACCESS_TOKEN>
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> b9d7dcc (adiciona projeto pelo Mac)
